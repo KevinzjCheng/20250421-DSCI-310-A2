@@ -1,3 +1,3 @@
 # 20250421-DSCI-310-A2
 Learning about Version Control
-Solving merge conflicts is soooooooo hard!
+Solving merge conflicts takes conscious effort, but I can do it!
